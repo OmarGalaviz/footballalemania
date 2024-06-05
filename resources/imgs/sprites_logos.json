@@ -1,0 +1,280 @@
+{
+"frames": {
+	"augsburg_17.png": {
+		"frame": {"x":326, "y":54, "w":13, "h":17},
+		"spriteSourceSize": {"x":0,"y":0,"w":13,"h":17},
+		"sourceSize": {"w":13,"h":17}
+	},
+	"augsburg_28.png": {
+		"frame": {"x":304, "y":282, "w":22, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":22,"h":28},
+		"sourceSize": {"w":22,"h":28}
+	},
+	"augsburg_83.png": {
+		"frame": {"x":239, "y":246, "w":64, "h":83},
+		"spriteSourceSize": {"x":0,"y":0,"w":64,"h":83},
+		"sourceSize": {"w":64,"h":83}
+	},
+	"bayer_04_17.png": {
+		"frame": {"x":29, "y":347, "w":17, "h":13},
+		"spriteSourceSize": {"x":0,"y":0,"w":17,"h":13},
+		"sourceSize": {"w":17,"h":13}
+	},
+	"bayer_04_28.png": {
+		"frame": {"x":284, "y":330, "w":28, "h":22},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":22},
+		"sourceSize": {"w":28,"h":22}
+	},
+	"bayer_04_83.png": {
+		"frame": {"x":84, "y":206, "w":83, "h":65},
+		"spriteSourceSize": {"x":0,"y":0,"w":83,"h":65},
+		"sourceSize": {"w":83,"h":65}
+	},
+	"bayern_munchen_17.png": {
+		"frame": {"x":326, "y":0, "w":17, "h":17},
+		"spriteSourceSize": {"x":0,"y":0,"w":17,"h":17},
+		"sourceSize": {"w":17,"h":17}
+	},
+	"bayern_munchen_28.png": {
+		"frame": {"x":197, "y":330, "w":28, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":28},
+		"sourceSize": {"w":28,"h":28}
+	},
+	"bayern_munchen_83.png": {
+		"frame": {"x":0, "y":84, "w":83, "h":83},
+		"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+		"sourceSize": {"w":83,"h":83}
+	},
+	"borussia_d_17.png": {
+		"frame": {"x":313, "y":329, "w":17, "h":17},
+		"spriteSourceSize": {"x":0,"y":0,"w":17,"h":17},
+		"sourceSize": {"w":17,"h":17}
+	},
+	"borussia_d_28.png": {
+		"frame": {"x":226, "y":330, "w":28, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":28},
+		"sourceSize": {"w":28,"h":28}
+	},
+	"borussia_d_83.png": {
+		"frame": {"x":0, "y":168, "w":83, "h":83},
+		"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+		"sourceSize": {"w":83,"h":83}
+	},
+	"borussia_m_17.png": {
+		"frame": {"x":330, "y":224, "w":10, "h":17},
+		"spriteSourceSize": {"x":0,"y":0,"w":10,"h":17},
+		"sourceSize": {"w":10,"h":17}
+	},
+	"borussia_m_28.png": {
+		"frame": {"x":308, "y":0, "w":17, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":17,"h":28},
+		"sourceSize": {"w":17,"h":28}
+	},
+	"borussia_m_83.png": {
+		"frame": {"x":302, "y":84, "w":51, "h":83},
+		"spriteSourceSize": {"x":0,"y":0,"w":51,"h":83},
+		"sourceSize": {"w":51,"h":83}
+	},
+	"eintracht_17.png": {
+		"frame": {"x":304, "y":311, "w":17, "h":17},
+		"spriteSourceSize": {"x":0,"y":0,"w":17,"h":17},
+		"sourceSize": {"w":17,"h":17}
+	},
+	"eintracht_28.png": {
+		"frame": {"x":302, "y":168, "w":28, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":28},
+		"sourceSize": {"w":28,"h":28}
+	},
+	"eintracht_83.png": {
+		"frame": {"x":0, "y":252, "w":83, "h":83},
+		"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+		"sourceSize": {"w":83,"h":83}
+	},
+	"fortuna_dusseldorf_17.png": {
+		"frame": {"x":281, "y":142, "w":17, "h":17},
+		"spriteSourceSize": {"x":0,"y":0,"w":17,"h":17},
+		"sourceSize": {"w":17,"h":17}
+	},
+	"fortuna_dusseldorf_28.png": {
+		"frame": {"x":252, "y":113, "w":28, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":28},
+		"sourceSize": {"w":28,"h":28}
+	},
+	"fortuna_dusseldorf_83.png": {
+		"frame": {"x":84, "y":0, "w":83, "h":83},
+		"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+		"sourceSize": {"w":83,"h":83}
+	},
+	"freiburg_17.png": {
+		"frame": {"x":327, "y":282, "w":12, "h":17},
+		"spriteSourceSize": {"x":0,"y":0,"w":12,"h":17},
+		"sourceSize": {"w":12,"h":17}
+	},
+	"freiburg_28.png": {
+		"frame": {"x":281, "y":84, "w":20, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":20,"h":28},
+		"sourceSize": {"w":20,"h":28}
+	},
+	"freiburg_83.png": {
+		"frame": {"x":242, "y":162, "w":59, "h":83},
+		"spriteSourceSize": {"x":0,"y":0,"w":59,"h":83},
+		"sourceSize": {"w":59,"h":83}
+	},
+	"hertha_17.png": {
+		"frame": {"x":58, "y":336, "w":17, "h":16},
+		"spriteSourceSize": {"x":0,"y":0,"w":17,"h":16},
+		"sourceSize": {"w":17,"h":16}
+	},
+	"hertha_28.png": {
+		"frame": {"x":302, "y":197, "w":28, "h":26},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":26},
+		"sourceSize": {"w":28,"h":26}
+	},
+	"hertha_83.png": {
+		"frame": {"x":84, "y":84, "w":83, "h":77},
+		"spriteSourceSize": {"x":0,"y":0,"w":83,"h":77},
+		"sourceSize": {"w":83,"h":77}
+	},
+	"hoffenheim_17.png": {
+		"frame": {"x":326, "y":36, "w":14, "h":17},
+		"spriteSourceSize": {"x":0,"y":0,"w":14,"h":17},
+		"sourceSize": {"w":14,"h":17}
+	},
+	"hoffenheim_28.png": {
+		"frame": {"x":304, "y":253, "w":24, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":24,"h":28},
+		"sourceSize": {"w":24,"h":28}
+	},
+	"hoffenheim_83.png": {
+		"frame": {"x":168, "y":246, "w":70, "h":83},
+		"spriteSourceSize": {"x":0,"y":0,"w":70,"h":83},
+		"sourceSize": {"w":70,"h":83}
+	},
+	"koln_17.png": {
+		"frame": {"x":326, "y":18, "w":15, "h":17},
+		"spriteSourceSize": {"x":0,"y":0,"w":15,"h":17},
+		"sourceSize": {"w":15,"h":17}
+	},
+	"koln_28.png": {
+		"frame": {"x":304, "y":224, "w":25, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":25,"h":28},
+		"sourceSize": {"w":25,"h":28}
+	},
+	"koln_83.png": {
+		"frame": {"x":168, "y":162, "w":73, "h":83},
+		"spriteSourceSize": {"x":0,"y":0,"w":73,"h":83},
+		"sourceSize": {"w":73,"h":83}
+	},
+	"mainz_05_17.png": {
+		"frame": {"x":308, "y":29, "w":17, "h":16},
+		"spriteSourceSize": {"x":0,"y":0,"w":17,"h":16},
+		"sourceSize": {"w":17,"h":16}
+	},
+	"mainz_05_28.png": {
+		"frame": {"x":255, "y":330, "w":28, "h":26},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":26},
+		"sourceSize": {"w":28,"h":26}
+	},
+	"mainz_05_83.png": {
+		"frame": {"x":168, "y":84, "w":83, "h":77},
+		"spriteSourceSize": {"x":0,"y":0,"w":83,"h":77},
+		"sourceSize": {"w":83,"h":77}
+	},
+	"paderborn_17.png": {
+		"frame": {"x":308, "y":64, "w":17, "h":12},
+		"spriteSourceSize": {"x":0,"y":0,"w":17,"h":12},
+		"sourceSize": {"w":17,"h":12}
+	},
+	"paderborn_28.png": {
+		"frame": {"x":0, "y":336, "w":28, "h":19},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":19},
+		"sourceSize": {"w":28,"h":19}
+	},
+	"paderborn_83.png": {
+		"frame": {"x":84, "y":304, "w":83, "h":57},
+		"spriteSourceSize": {"x":0,"y":0,"w":83,"h":57},
+		"sourceSize": {"w":83,"h":57}
+	},
+	"rb_leipzig_17.png": {
+		"frame": {"x":313, "y":347, "w":17, "h":9},
+		"spriteSourceSize": {"x":0,"y":0,"w":17,"h":9},
+		"sourceSize": {"w":17,"h":9}
+	},
+	"rb_leipzig_28.png": {
+		"frame": {"x":252, "y":142, "w":28, "h":15},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":15},
+		"sourceSize": {"w":28,"h":15}
+	},
+	"rb_leipzig_83.png": {
+		"frame": {"x":84, "y":162, "w":83, "h":43},
+		"spriteSourceSize": {"x":0,"y":0,"w":83,"h":43},
+		"sourceSize": {"w":83,"h":43}
+	},
+	"schalke_04_17.png": {
+		"frame": {"x":322, "y":311, "w":17, "h":17},
+		"spriteSourceSize": {"x":0,"y":0,"w":17,"h":17},
+		"sourceSize": {"w":17,"h":17}
+	},
+	"schalke_04_28.png": {
+		"frame": {"x":252, "y":84, "w":28, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":28},
+		"sourceSize": {"w":28,"h":28}
+	},
+	"schalke_04_83.png": {
+		"frame": {"x":168, "y":0, "w":83, "h":83},
+		"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+		"sourceSize": {"w":83,"h":83}
+	},
+	"union_berlin_17.png": {
+		"frame": {"x":47, "y":353, "w":17, "h":6},
+		"spriteSourceSize": {"x":0,"y":0,"w":17,"h":6},
+		"sourceSize": {"w":17,"h":6}
+	},
+	"union_berlin_28.png": {
+		"frame": {"x":29, "y":336, "w":28, "h":10},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":10},
+		"sourceSize": {"w":28,"h":10}
+	},
+	"union_berlin_83.png": {
+		"frame": {"x":84, "y":272, "w":83, "h":31},
+		"spriteSourceSize": {"x":0,"y":0,"w":83,"h":31},
+		"sourceSize": {"w":83,"h":31}
+	},
+	"werder_bremen_17.png": {
+		"frame": {"x":329, "y":253, "w":11, "h":17},
+		"spriteSourceSize": {"x":0,"y":0,"w":11,"h":17},
+		"sourceSize": {"w":11,"h":17}
+	},
+	"werder_bremen_28.png": {
+		"frame": {"x":281, "y":113, "w":19, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":19,"h":28},
+		"sourceSize": {"w":19,"h":28}
+	},
+	"werder_bremen_83.png": {
+		"frame": {"x":252, "y":0, "w":55, "h":83},
+		"spriteSourceSize": {"x":0,"y":0,"w":55,"h":83},
+		"sourceSize": {"w":55,"h":83}
+	},
+	"wolfsburg_17.png": {
+		"frame": {"x":308, "y":46, "w":17, "h":17},
+		"spriteSourceSize": {"x":0,"y":0,"w":17,"h":17},
+		"sourceSize": {"w":17,"h":17}
+	},
+	"wolfsburg_28.png": {
+		"frame": {"x":168, "y":330, "w":28, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":28},
+		"sourceSize": {"w":28,"h":28}
+	},
+	"wolfsburg_83.png": {
+		"frame": {"x":0, "y":0, "w":83, "h":83},
+		"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+		"sourceSize": {"w":83,"h":83}
+	}
+
+},
+"meta": {
+	"image": "sprites_logos.png",
+	"size": {"w": 354, "h": 362},
+	"scale": "1"
+}
+}
